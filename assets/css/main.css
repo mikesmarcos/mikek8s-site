@@ -328,7 +328,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 50%;
 		}
 
 		.row > .off-4 {
@@ -1757,7 +1757,6 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
 		}
 
 			.image.avatar48 img {
@@ -2249,6 +2248,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
+				opacity: 2.5;
 			}
 
 			#main > section.two {
